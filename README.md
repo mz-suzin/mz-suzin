@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mz-suzin
-- 👀 I’m interested in becoming a web developer 
-- 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate on something useful
+- 👋 Hi, I’m @mz-suzin.
+- 👀 I’m interested in Web, mobile and UX/UI development.
+- 🌱 I'm currently becoming a React Master.
+- 💞️ I’m looking to collaborate on something useful for the world.
 - 📫 How to reach me - Discord - Sir Iorek #0955
 
 <!---
