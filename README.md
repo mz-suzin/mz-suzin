@@ -11,7 +11,7 @@ Former Control and Automation Engineer with a background in robotics and PCB des
 * ✉️  You can contact me at [mzsuzin@gmail.com](mailto:mzsuzin@gmail.com)
 * 🧠  I'm learning REACT
 * 🤝  I'm open to collaborating on something useful for the world
-* ⚡  It's so much fun to tell people you can move your ear without touching it, and then show them your ear saying it is moving, when it actually is not moving an inch, and say "See?! So cool right?"
+* ⚡  It's so much fun to tell people you can move your ear without touching it, and then show them your ear saying it is moving, when it's actually not moving an inch, and say "See?! So cool right?"
 
 <a href="https://www.github.com/mz-suzin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mz-suzin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
