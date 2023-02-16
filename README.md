@@ -4,7 +4,7 @@ Hi 👋 My name is Matheus Suzin
 Full-Stack Software Developer
 -----------------------------
 
-Former Control and Automation Engineer with a background in robotics and PCB design, found a new passion in JavaScript and Web Development
+Control and Automation Engineer with a background in robotics and PCB design, found a new passion in JavaScript and Web Development
 
 * 🌍  I'm based in Brasil
 * 🖥️  See my portfolio at [My Website](http://tobedefined.com)
