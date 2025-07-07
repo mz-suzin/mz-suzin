@@ -7,11 +7,10 @@ Full-Stack Software Developer
 Control and Automation Engineer with a background in robotics and PCB design, found a new passion in JavaScript and Web Development
 
 * 🌍  I'm based in Brasil
-* 🖥️  See my portfolio at [My Website](http://tobedefined.com)
 * ✉️  You can contact me at [mzsuzin@gmail.com](mailto:mzsuzin@gmail.com)
-* 🧠  I'm learning REACT
+* 🧠  Experienced in Design Systems using JavaScript, React and Angular
 * 🤝  I'm open to collaborating on something useful for the world
-* ⚡  It's so much fun to tell people you can move your ear without touching it, and then show them your ear saying it is moving, when it's actually not moving an inch, and say "See?! So cool right?"
+* ⚡  It's hilarious to tell people I can move my ear without touching it. I'll point to it and seriously say, 'See? It's moving right now!' while it's completely motionless. The look on people's face is just priceless.
 
 <a href="https://www.github.com/mz-suzin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mz-suzin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
